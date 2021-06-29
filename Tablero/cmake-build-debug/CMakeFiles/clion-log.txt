@@ -1,0 +1,10 @@
+/home/julio/Downloads/CLion-2021.1.1/clion-2021.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/julio/CLionProjects/window_table
+CMake Warning at CMakeLists.txt:16 (message):
+  CMAKE_PREFIX_PATH is not defined, you may need to set it
+  (-DCMAKE_PREFIX_PATH="path/to/Qt/lib/cmake" or
+  -DCMAKE_PREFIX_PATH=/usr/include/{host}/qt{version}/ on Ubuntu)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/julio/CLionProjects/window_table/cmake-build-debug

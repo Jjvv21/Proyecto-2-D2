@@ -1,0 +1,4 @@
+/home/julio/CLionProjects/window_table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/julio/CLionProjects/window_table/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/julio/CLionProjects/window_table/cmake-build-debug/CMakeFiles/window_table.dir
+/home/julio/CLionProjects/window_table/cmake-build-debug/CMakeFiles/window_table_autogen.dir
